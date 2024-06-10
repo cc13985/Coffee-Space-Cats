@@ -1,4 +1,4 @@
-# claire README
+# Claire's VS Code Theme
 
 ## Working with Markdown
 
