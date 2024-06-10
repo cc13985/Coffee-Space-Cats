@@ -1,5 +1,33 @@
 {
 	"name": "Claire",
+	"displayName": "Space Cats",
+	"description": "Cats in space!",
+	"version": "1.0.0",
+	"publisher": "Cats & Coffee",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cc13985/claire"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"space",
+		"space cats",
+		"cats",
+		"cat",
+		"cool",
+		"coffee",
+		"cats and coffee",
+		"claire",
+		"cats dark",
+		"pink",
+		"purple",
+		"neon",
+		"blue",
+		"green",
+		"yellow",
+		"orange"
+	],
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
