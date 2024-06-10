@@ -1,7 +1,12 @@
 {
   "name": "claire",
-  "displayName": "Claire",
-  "description": "Claire's Theme!",
+  "displayName": "Space Cats",
+  "description": "The Space Cats VS Code Theme decorates your Visual Studio Code IDE with a cool, modern design.",
+  "publisher": "Cats & Coffee", 
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/cc13985/claire"
+	},
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.90.0"
