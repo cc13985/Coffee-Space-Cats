@@ -3,7 +3,7 @@
 	"displayName": "Space Cats",
 	"description": "Cats in space!",
 	"version": "1.0.0",
-	"publisher": "Cats & Coffee",
+	"publisher": "CatsCoffee",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/cc13985/claire"
