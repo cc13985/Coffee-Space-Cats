@@ -1,13 +1,6 @@
 {
-	"name": "Claire",
+	"name": "Space Cats",
 	"displayName": "Space Cats",
-	"description": "Cats in space!",
-	"version": "1.0.0",
-	"publisher": "CatsCoffee",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/cc13985/claire"
-	},
 	"keywords": [
 		"theme",
 		"dark theme",
@@ -205,20 +198,20 @@
 		"tab.unfocusedInactiveForeground": "#FFA7DB7f",
 		"terminal.ansiBlack": "#202225",
 		"terminal.ansiBlue": "#FFFCDC",
-		"terminal.ansiBrightBlack": "#E69FFF",
+		"terminal.ansiBrightBlack": "#000000",
 		"terminal.ansiBrightBlue": "#FFFCDC",
-		"terminal.ansiBrightCyan": "#FFEBFA",
-		"terminal.ansiBrightGreen": "#E88D02",
-		"terminal.ansiBrightMagenta": "#45BAFF",
-		"terminal.ansiBrightRed": "#40F065",
-		"terminal.ansiBrightWhite": "#F5D1D1",
-		"terminal.ansiBrightYellow": "#45BAFF",
-		"terminal.ansiCyan": "#FFEBFA",
-		"terminal.ansiGreen": "#E88D02",
-		"terminal.ansiMagenta": "#45BAFF",
-		"terminal.ansiRed": "#40F065",
-		"terminal.ansiWhite": "#F5D1D1",
-		"terminal.ansiYellow": "#45BAFF",
+		"terminal.ansiBrightCyan": "#45BAFF",
+		"terminal.ansiBrightGreen": "#40F065",
+		"terminal.ansiBrightMagenta": "#e56bec",
+		"terminal.ansiBrightRed": "#ff5e5e",
+		"terminal.ansiBrightWhite": "#f7f7f7",
+		"terminal.ansiBrightYellow": "#e8ff53",
+		"terminal.ansiCyan": "#82c3e9cd",
+		"terminal.ansiGreen": "#85df85e0",
+		"terminal.ansiMagenta": "#d29ad8",
+		"terminal.ansiRed": "#e4867a",
+		"terminal.ansiWhite": "#c5c3c3",
+		"terminal.ansiYellow": "#f2fcb2dd",
 		"terminalCursor.background": "#202225",
 		"terminalCursor.foreground": "#45BAFF",
 		"textLink.activeForeground": "#FFA7DB",
@@ -317,6 +310,15 @@
 			"foreground": "#62ec80"
 		  }
 		},
+		{
+			"scope": [
+			  "invalid",
+			  "invalid.illegal",
+			],
+			"settings": {
+			  "foreground": "#ec6962"
+			}
+		  },
 		{
 		  "scope": [
 			"Keyword",
@@ -841,7 +843,7 @@
 		{
 		  "scope": "token.warn-token",
 		  "settings": {
-			"foreground": "#45BAFF"
+			"foreground": "#ffb245"
 		  }
 		},
 		{
