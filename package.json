@@ -1,0 +1,21 @@
+{
+  "name": "claire",
+  "displayName": "Claire",
+  "description": "Claire's Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Claire-color-theme.json"
+      }
+    ]
+  }
+}
