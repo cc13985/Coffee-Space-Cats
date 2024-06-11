@@ -1,6 +1,5 @@
 # Coffee Space Cats
-
-☕ Coffee Space Cats decorates your Visual Studio Code IDE with a cool, modern design. 😺
+<p align="center">☕ Coffee Space Cats decorates your Visual Studio Code IDE with a cool, modern design. 😺</p>
 
 ![spacecats](./img/coffee-space-cats.png)
 ![sample](./img/sample.png)
