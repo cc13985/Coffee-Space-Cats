@@ -1,8 +1,14 @@
 # Coffee Space Cats
-<p align="center">☕ Coffee Space Cats decorates your Visual Studio Code IDE with a cool, modern design. 😺</p>
+<h3 align="center">☕ Coffee Space Cats decorates your Visual Studio Code IDE with a cool, modern design. 😺</h3>
+<p align="center">
+  <img width=45% src="./img/logo.png"/>
+</p>
+<h3 align="center">🚀 Enter your coding space with the company of coffee cats! 🌟</h3>
 
-![spacecats](./img/coffee-space-cats.png)
-![sample](./img/sample.png)
+<p align="center">
+  <img src="./img/coffee-space-cats.png"/>
+  <img src="./img/sample.png"/>
+</p>
 
 ## Install
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=CatsCoffee.claire)
