@@ -2,7 +2,7 @@
   "name": "CoffeeSpaceCats",
   "displayName": "Coffee Space Cats",
   "description": "Coffee cats in space.",
-  "icon": "./img/logo.png",
+  "icon": "img/logo.png",
   "publisher": "CatsCoffee",
   "repository": {
     "type": "git",
