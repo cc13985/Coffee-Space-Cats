@@ -1,5 +1,5 @@
 {
-  "name": "Space Cats",
+  "name": "SpaceCats",
   "displayName": "Space Cats",
   "description": "The Space Cats VS Code Theme decorates your Visual Studio Code IDE with a cool, modern design.",
   "publisher": "CatsCoffee",
@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/cc13985/claire"
   },
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.90.0"
   },
