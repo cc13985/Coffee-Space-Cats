@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/cc13985/claire"
   },
-  "version": "0.6.0",
+  "version": "0.7.0",
   "engines": {
     "vscode": "^1.90.0"
   },
