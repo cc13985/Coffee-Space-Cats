@@ -11,7 +11,7 @@
 </p>
 
 ## Install
-1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=CatsCoffee.claire)
+1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=CatsCoffee.CoffeeSpaceCats)
 2. Click on the "Install" button
 3. Enter `Ctrl+Shift+P` (Windows) or `Cmd+Shift+P` (Mac) in VS Code
 4. Search for "Preferences: Color Theme" in the Command Palette
