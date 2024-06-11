@@ -1,5 +1,5 @@
 {
-  "name": "claire",
+  "name": "Space Cats",
   "displayName": "Space Cats",
   "description": "The Space Cats VS Code Theme decorates your Visual Studio Code IDE with a cool, modern design.",
   "publisher": "CatsCoffee",
@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/cc13985/claire"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Claire",
+        "label": "Space Cats",
         "uiTheme": "vs-dark",
-        "path": "./themes/Claire-color-theme.json"
+        "path": "./themes/Space-Cats-color-theme.json"
       }
     ]
   }
