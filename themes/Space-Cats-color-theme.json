@@ -391,6 +391,7 @@
 		},
 		{
 		  "scope": [
+			"comment.line",
 			"comment.line.scss",
 			"comment.line.double-slash",
 			"comment.line.number-sign.mips",
@@ -405,7 +406,8 @@
 			"source.ignore"
 		  ],
 		  "settings": {
-			"foreground": "#76777b"
+			"foreground": "#76777b",
+			"fontStyle": "italic"
 		  }
 		},
 		{
@@ -463,6 +465,8 @@
 			"variable.other.constant.js",
 			"variable.other.object.property.js",
 			"string.quoted.double",
+			"string.quoted.single",
+			"string.quoted.triple",
 			"markup.fenced_code.block.markdown",
 			"markup.inline.raw.string.markdown",
 			"variable.function",
