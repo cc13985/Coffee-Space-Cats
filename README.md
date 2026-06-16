@@ -10,6 +10,13 @@
   <img src="./img/sample.png"/>
 </p>
 
+## Features
+
+- Dark space-inspired background with a deep `#202225` base
+- Neon pink, purple, and cyan accent colors
+- Full syntax highlighting for JavaScript, TypeScript, Python, HTML, CSS/SCSS, JSON, and Markdown
+- Styled terminal, status bar, activity bar, and git decorations
+
 ## Install
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=CatsCoffee.CoffeeSpaceCats)
 2. Click on the "Install" button
