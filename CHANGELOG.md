@@ -2,6 +2,26 @@
 
 All notable changes to the "Coffee Space Cats" extension will be documented in this file.
 
+## [3.1.0]
+
+- Added Coffee Space Cats file icon theme with 29 file type icons and 14 folder icons
+
+## [3.0.0]
+
+- Added 4 new theme variants: Cosmic Latte, Nebula, Midnight, Aurora
+- Polished main theme: improved list selection contrast and foreground visibility
+
+## [2.4.0]
+
+- Added Jupyter/Notebook UI colors
+- Added dedicated token rules for TypeScript, Rust, Go, Java, Ruby, C/C++, Swift, YAML, SQL, and Bash
+
+## [2.3.0]
+
+- Enabled semantic highlighting for more accurate token colors
+- Added bracket pair colorization using theme palette colors
+- Added marketplace keywords for better discoverability
+
 ## [2.2.2]
 
 - Improved Python syntax highlighting with dedicated token rules
