@@ -8,19 +8,56 @@
     "type": "git",
     "url": "https://github.com/cc13985/Coffee-Space-Cats"
   },
-  "version": "2.2.2",
+  "version": "3.1.0",
   "engines": {
     "vscode": "^1.0.0"
   },
+  "keywords": [
+    "dark",
+    "space",
+    "cats",
+    "pink",
+    "purple",
+    "neon",
+    "coffee",
+    "aesthetic"
+  ],
   "categories": [
     "Themes"
   ],
   "contributes": {
+    "iconThemes": [
+      {
+        "id": "coffee-space-cats-icons",
+        "label": "Coffee Space Cats Icons",
+        "path": "./icons/Space-Cats-file-icon-theme.json"
+      }
+    ],
     "themes": [
       {
         "label": "Coffee Space Cats",
         "uiTheme": "vs-dark",
         "path": "./themes/Space-Cats-color-theme.json"
+      },
+      {
+        "label": "Coffee Space Cats - Cosmic Latte",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmic-Latte-color-theme.json"
+      },
+      {
+        "label": "Coffee Space Cats - Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nebula-color-theme.json"
+      },
+      {
+        "label": "Coffee Space Cats - Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight-color-theme.json"
+      },
+      {
+        "label": "Coffee Space Cats - Aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aurora-color-theme.json"
       }
     ]
   }
