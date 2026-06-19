@@ -10,6 +10,20 @@
   <img src="./img/sample.png"/>
 </p>
 
+## Variants
+
+Coffee Space Cats ships with 5 themes — pick the one that fits your vibe:
+
+| Theme | Aesthetic |
+|---|---|
+| **Coffee Space Cats** | Classic dark space — pink, purple, cyan neon on deep grey |
+| **Cosmic Latte** | Warm espresso tones — peach, gold, and mint on dark brown |
+| **Nebula** | Deep purple space — soft pink, periwinkle, and pale green |
+| **Midnight** | Near-black minimal neon — same accents, maximum darkness |
+| **Aurora** | Dark teal / northern lights — seafoam, sky blue, amber |
+
+Switch between them via `Cmd+Shift+P` → **Preferences: Color Theme**.
+
 ## Features
 
 - Dark space-inspired background with a deep `#202225` base
