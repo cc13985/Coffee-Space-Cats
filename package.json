@@ -1,19 +1,25 @@
 {
   "name": "CoffeeSpaceCats",
   "displayName": "Coffee Space Cats",
-  "description": "Coffee cats in space.",
+  "description": "A space-themed dark and light color theme with neon pink, purple, and cyan accents. Includes 6 variants (dark, light, Cosmic Latte, Nebula, Midnight, Aurora), a matching file icon theme, and full syntax support for 12+ languages.",
   "icon": "img/icon.png",
   "publisher": "CatsCoffee",
+  "pricing": "Free",
   "repository": {
     "type": "git",
     "url": "https://github.com/cc13985/Coffee-Space-Cats"
   },
-  "version": "3.1.0",
+  "version": "3.2.0",
   "engines": {
     "vscode": "^1.0.0"
   },
+  "galleryBanner": {
+    "color": "#202225",
+    "theme": "dark"
+  },
   "keywords": [
     "dark",
+    "light",
     "space",
     "cats",
     "pink",
@@ -38,6 +44,11 @@
         "label": "Coffee Space Cats",
         "uiTheme": "vs-dark",
         "path": "./themes/Space-Cats-color-theme.json"
+      },
+      {
+        "label": "Coffee Space Cats - Dawn",
+        "uiTheme": "vs",
+        "path": "./themes/Dawn-color-theme.json"
       },
       {
         "label": "Coffee Space Cats - Cosmic Latte",

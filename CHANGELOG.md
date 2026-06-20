@@ -2,6 +2,12 @@
 
 All notable changes to the "Coffee Space Cats" extension will be documented in this file.
 
+## [3.2.0]
+
+- Added Dawn light theme variant (warm cream with deep rose, purple, and blue accents)
+- Added gallery banner, pricing, and improved marketplace description
+- Updated README with full feature list and customization guide
+
 ## [3.1.0]
 
 - Added Coffee Space Cats file icon theme with 29 file type icons and 14 folder icons
