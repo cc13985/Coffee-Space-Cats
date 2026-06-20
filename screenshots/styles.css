@@ -1,0 +1,84 @@
+/* ── Variables ────────────────────────────────── */
+:root {
+  --bg:        #202225;
+  --surface:   #2d2f34;
+  --accent:    #FFA7DB;
+  --purple:    #E69FFF;
+  --cyan:      #45BAFF;
+  --text:      #eeb1d5;
+  --muted:     #76777b;
+  --radius:    8px;
+}
+
+/* ── Base ─────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+/* ── Navigation ───────────────────────────────── */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #E69FFF50;
+}
+
+.nav a {
+  color: var(--accent);
+  text-decoration: none;
+  margin-left: 1.5rem;
+  transition: color 0.2s;
+}
+
+.nav a:hover { color: var(--cyan); }
+
+/* ── Hero ─────────────────────────────────────── */
+.hero {
+  text-align: center;
+  padding: 6rem 2rem;
+}
+
+.hero h1 {
+  font-size: clamp(2rem, 5vw, 4rem);
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.accent { color: var(--accent); }
+
+.btn-launch {
+  margin-top: 2rem;
+  padding: 0.75rem 2rem;
+  background: #E69FFF50;
+  border: 1px solid var(--purple);
+  border-radius: var(--radius);
+  color: var(--text);
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.btn-launch:hover { background: #E69FFF30; }
+
+/* ── Cards ────────────────────────────────────── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  padding: 2rem;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid #E69FFF40;
+  border-radius: var(--radius);
+  padding: 1.5rem;
+}
+
+.card[data-role="pilot"]    { border-top: 3px solid var(--accent); }
+.card[data-role="engineer"] { border-top: 3px solid var(--cyan); }

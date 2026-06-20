@@ -1,4 +1,9 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+.git/**
+node_modules/**
 vsc-extension-quickstart.md
+**/*.test.js
+**/.DS_Store
+screenshots/**
