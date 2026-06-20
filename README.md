@@ -8,8 +8,8 @@
 <h3 align="center">🚀 Enter your coding space with the company of coffee cats! 🌟</h3>
 
 <p align="center">
-  <img src="./img/coffee-space-cats.png"/>
-  <img src="./img/sample.png"/>
+  <img width=42% src="./img/coffee-space-cats.png"/>
+  <img width=45% src="./img/sample.png"/>
 </p>
 
 ## Variants
@@ -28,13 +28,15 @@ Switch between them via `Cmd+Shift+P` → **Preferences: Color Theme**.
 ## Screenshots
 
 <p align="center">
-  <img src="./img/python.png" alt="Python" width="33%"/>
-  <img src="./img/typescript.png" alt="Typescript" width="33%"/>
-  <img src="./img/rust.png" alt="Rust" width="33%"/>
+  <img src="./img/python.png" alt="Python" width="48%"/>
+  <img src="./img/css.png" alt="CSS" width="48%"/>
+</p>
+<p align="center">
+  <img src="./img/typescript.png" alt="Typescript" width="48%"/>
 </p>
 <p align="center">
   <img src="./img/html.png" alt="HTML" width="48%"/>
-  <img src="./img/css.png" alt="CSS" width="48%"/>
+  <img src="./img/rust.png" alt="Rust" width="48%"/>
 </p>
 
 ## Features
